@@ -38,23 +38,27 @@ Cada carpeta de semestre contiene sus propios proyectos organizados individualme
 | [GestionEmpleados](./programacion-2/GestionEmpleados/) | Gestión de empleados con herencia: clase base `Empleado` extendida por `TiempoCompleto` y `MedioTiempo`. GUI con Swing. Taller de práctica. | Programación 2 | Abr–May 2026 |
 | [SistemasGestionEmpleados](./programacion-2/SistemasGestionEmpleados/) | Versión extendida del sistema de gestión de empleados desarrollada como examen parcial. Incluye formulario de registro separado y gestor centralizado. | Programación 2 | May–Jun 2026 |
 | [APPListas](./programacion-2/APPListas/) | Aplicación de gestión de estudiantes implementando una **lista simplemente enlazada desde cero** con nodos. Operaciones: agregar al inicio/final, buscar por ID y eliminar. Patrón MVC con GUI en Swing. | Programación 2 | Abr–May 2026 |
+| [SistemaRescate](./programacion-3/SistemaRescate/) | Proyecto de Programación 3. | Programación 3 | 2026 |
+| [TallerLAMBA](./programacion-3/TallerLAMBA/) | Taller de interfaces funcionales y expresiones lambda. Aplica `Predicate`, `Function`, `Consumer` y `Supplier` para filtrar, transformar y procesar productos. | Programación 3 | 2026 |
+| [ParcialPractico](./programacion-3/ParcialPractico/) | Parcial práctico con interfaces funcionales genéricas, expresiones lambda, criterios de filtrado, iteradores y reglas de tarifas aplicadas a cursos. | Programación 3 | 2026 |
 
 ---
 
 ## 🛠️ Cómo ejecutar cualquier proyecto
 
-Todos los proyectos están desarrollados en **Java con NetBeans IDE**.
+Los proyectos de Programación 1 y 2 se desarrollaron principalmente en **NetBeans IDE**. Los proyectos recientes de Programación 3 utilizan **IntelliJ IDEA**.
 
 **Requisitos:**
 - Java JDK 8 o superior
-- NetBeans IDE (recomendado: versión 12 en adelante)
+- NetBeans IDE para proyectos de Programación 1 y 2
+- IntelliJ IDEA para los proyectos de Programación 3
 
 **Pasos:**
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jxxanp/java-university-projects.git
    ```
-2. Abre NetBeans → `File → Open Project`
+2. Abre el proyecto con el IDE correspondiente (NetBeans o IntelliJ IDEA).
 3. Navega hasta la carpeta del proyecto que deseas abrir
 4. Haz clic en `Run Project` (F6)
 
@@ -77,6 +81,16 @@ Todos los proyectos están desarrollados en **Java con NetBeans IDE**.
 - Estructuras de datos: listas enlazadas
 - Patrones de diseño básicos (MVC)
 - Manejo de colecciones (ArrayList)
+
+---
+
+**Programación 3** — 4° semestre (2026)
+- Interfaces funcionales propias y anotación `@FunctionalInterface`
+- Expresiones lambda
+- Interfaces funcionales de Java: `Predicate`, `Function`, `Consumer` y `Supplier`
+- Genéricos y criterios de filtrado reutilizables
+- Iteradores (`Iterator`) y procesamiento de colecciones
+- Transformación de datos y aplicación de reglas de negocio mediante funciones
 
 ---
 
