@@ -38,9 +38,9 @@ Cada carpeta de semestre contiene sus propios proyectos organizados individualme
 | [GestionEmpleados](./programacion-2/GestionEmpleados/) | Gestión de empleados con herencia: clase base `Empleado` extendida por `TiempoCompleto` y `MedioTiempo`. GUI con Swing. Taller de práctica. | Programación 2 | Abr–May 2026 |
 | [SistemasGestionEmpleados](./programacion-2/SistemasGestionEmpleados/) | Versión extendida del sistema de gestión de empleados desarrollada como examen parcial. Incluye formulario de registro separado y gestor centralizado. | Programación 2 | May–Jun 2026 |
 | [APPListas](./programacion-2/APPListas/) | Aplicación de gestión de estudiantes implementando una **lista simplemente enlazada desde cero** con nodos. Operaciones: agregar al inicio/final, buscar por ID y eliminar. Patrón MVC con GUI en Swing. | Programación 2 | Abr–May 2026 |
-| [SistemaRescate](./programacion-3/SistemaRescate/) | Proyecto de Programación 3. | Programación 3 | 2026 |
-| [TallerLAMBA](./programacion-3/TallerLAMBA/) | Taller de interfaces funcionales y expresiones lambda. Aplica `Predicate`, `Function`, `Consumer` y `Supplier` para filtrar, transformar y procesar productos. | Programación 3 | 2026 |
-| [ParcialPractico](./programacion-3/ParcialPractico/) | Parcial práctico con interfaces funcionales genéricas, expresiones lambda, criterios de filtrado, iteradores y reglas de tarifas aplicadas a cursos. | Programación 3 | 2026 |
+| [SistemaRescate](./programacion-3/sistemarescate/) | Taller — sistema de robots de rescate con interfaces, clases abstractas y polimorfismo. | Programación 3 | Ago.–Sep. 2026 |
+| [TallerLAMBA](./programacion-3/TallerLAMBA/) | Taller de interfaces funcionales y expresiones lambda. Aplica `Predicate`, `Function`, `Consumer` y `Supplier` para filtrar, transformar y procesar productos. | Programación 3 | Sep.–Oct. 2026 |
+| [ParcialPractico](./programacion-3/ParcialPractico/) | Parcial práctico con interfaces funcionales genéricas, expresiones lambda, criterios de filtrado, iteradores y reglas de tarifas aplicadas a cursos. | Programación 3 | Oct.–Nov. 2026 |
 
 ---
 
