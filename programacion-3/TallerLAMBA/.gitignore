@@ -1,0 +1,8 @@
+# Archivos generados por Java
+*.class
+out/
+build/
+
+# Configuración local del IDE
+.idea/
+*.iml
