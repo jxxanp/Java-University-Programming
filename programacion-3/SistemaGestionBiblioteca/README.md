@@ -12,14 +12,13 @@ Proyecto de Programación III desarrollado en Java para representar distintos ma
 
 ## Contenido del proyecto
 
-El archivo `SistemaGestionBiblioteca.zip` contiene el código fuente Java, organizado en las carpetas `clases` e `interfaces`, además de `Main.java`, `integrantes.txt` y `.gitignore`. Se excluyeron los archivos compilados y la configuración local del IDE.
+El código fuente está disponible directamente en esta carpeta, organizado en `src/clases` y `src/interfaces`, junto con `src/Main.java`. También se incluyen `integrantes.txt` y `.gitignore`. Los archivos compilados y la configuración local del IDE se excluyen del repositorio.
 
 ## Ejecución
 
-1. Descarga `SistemaGestionBiblioteca.zip` desde esta carpeta del repositorio.
-2. Extrae su contenido en tu equipo.
-3. Abre la carpeta extraída en IntelliJ IDEA.
-4. Ejecuta la clase `Main`.
+1. Abre la carpeta `SistemaGestionBiblioteca` en IntelliJ IDEA.
+2. Verifica que la carpeta `src` esté configurada como fuente del proyecto.
+3. Ejecuta la clase `Main`.
 
 **Período:** Ago.–Sep. 2026  
 **Asignatura:** Programación III
