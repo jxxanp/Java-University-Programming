@@ -1,0 +1,6 @@
+INTEGRANTES DEL GRUPO - Taller Interfaces y Herencia (Sistema de Gestión de Biblioteca)
+Asignatura: Programación III
+
+1. JUAN PAULO LUGO RICO
+2. ANGELA SOFIA CERMEÑO MORELOS
+3. EVER LUIS FURNIELES HERNANDEZ
