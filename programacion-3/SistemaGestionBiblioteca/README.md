@@ -10,31 +10,16 @@ Proyecto de Programación III desarrollado en Java para representar distintos ma
 - **Validaciones:** comprobación de usuarios vacíos, préstamos duplicados, reservas existentes y límites de renovación.
 - **Pruebas desde consola:** el programa principal recorre escenarios de préstamo, devolución, descarga, renovación y reserva.
 
-## Organización del proyecto
+## Contenido del proyecto
 
-```
-SistemaGestionBiblioteca/
-├── src/
-│   ├── clases/
-│   │   ├── Audiolibro.java
-│   │   ├── DVD.java
-│   │   ├── LibroDigital.java
-│   │   ├── LibroFisico.java
-│   │   ├── MaterialBiblioteca.java
-│   │   └── Revista.java
-│   ├── interfaces/
-│   │   ├── Descargable.java
-│   │   ├── Prestable.java
-│   │   ├── Renovable.java
-│   │   └── Reservable.java
-│   └── Main.java
-├── integrantes.txt
-└── .gitignore
-```
+El archivo `SistemaGestionBiblioteca.zip` contiene el código fuente Java, organizado en las carpetas `clases` e `interfaces`, además de `Main.java`, `integrantes.txt` y `.gitignore`. Se excluyeron los archivos compilados y la configuración local del IDE.
 
 ## Ejecución
 
-Abrir la carpeta del proyecto en IntelliJ IDEA y ejecutar la clase `Main`.
+1. Descarga `SistemaGestionBiblioteca.zip` desde esta carpeta del repositorio.
+2. Extrae su contenido en tu equipo.
+3. Abre la carpeta extraída en IntelliJ IDEA.
+4. Ejecuta la clase `Main`.
 
 **Período:** Ago.–Sep. 2026  
 **Asignatura:** Programación III
