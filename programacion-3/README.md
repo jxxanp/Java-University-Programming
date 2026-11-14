@@ -4,15 +4,15 @@ Proyectos desarrollados durante el cuarto semestre de Ingeniería de Sistemas en
 
 ## Temas del curso
 
-- Encapsulamiento
-- Herencia
-- Polimorfismo
-- Abstracción
-- Interfaces en Java
-- Clases abstractas
-- Desarrollo orientado a objetos avanzado
+- Encapsulamiento, herencia, abstracción y polimorfismo
+- Clases abstractas y jerarquías de clases
+- Interfaces propias y contratos de comportamiento
 - Interfaces funcionales y expresiones lambda
+- Interfaces funcionales de Java: `Predicate`, `Function`, `Consumer` y `Supplier`
 - Genéricos, iteradores y procesamiento de colecciones
+- Validación de datos y reglas de negocio
+- Préstamos, devoluciones, reservas, descargas y renovaciones
+- Modelado de materiales bibliográficos mediante clases e interfaces
 
 ## Proyectos
 
