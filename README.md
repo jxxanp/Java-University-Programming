@@ -1,6 +1,6 @@
 # Java University Programming ☕
 
-Repositorio personal que reúne los proyectos, talleres y trabajos desarrollados en Java durante mi formación universitaria en **Ingeniería de Sistemas** — Universidad de Córdoba, Colombia.
+Repositorio personal que reúne los proyectos, talleres y trabajos desarrollados en Java exclusivamente en la asignatura de programación durante mi formación universitaria en **Ingeniería de Sistemas**, Universidad de Córdoba, Colombia.
 
 **Autor:** Juan Paulo Lugo Rico  
 **GitHub:** [@jxxanp](https://github.com/jxxanp)  
@@ -17,7 +17,7 @@ java-university-projects/
 └── programacion-3/       # Proyectos del 4° semestre (en curso)
 ```
 
-Cada carpeta de semestre contiene sus propios proyectos organizados individualmente, junto con un `README.md` que describe los temas vistos en ese curso.
+Cada carpeta de semestre contiene sus proyectos organizados individualmente, junto con un `README.md` que describe los contenidos y trabajos desarrollados en la asignatura.
 
 ---
 
@@ -61,43 +61,46 @@ Los proyectos de Programación 1 y 2 se desarrollaron principalmente en **NetBea
    ```
 2. Abre el proyecto con el IDE correspondiente (NetBeans o IntelliJ IDEA).
 3. Navega hasta la carpeta del proyecto que deseas abrir.
-4. Haz clic en `Run Project` (F6).
+4. Ejecuta la clase principal del proyecto desde el IDE.
 
 ---
 
 ## 📚 Temas cubiertos
 
 **Programación 1** — 2° semestre (2025)
-- Clases, objetos y encapsulamiento
+- Clases, objetos, atributos, métodos y encapsulamiento
 - Vectores y arrays de objetos
-- Vectores en paralelo
+- Vectores paralelos y manejo de inventarios
 - Interfaces gráficas con Swing y JFrame
-- JTable y manejo de datos tabulares
+- Componentes gráficos: JButton, JTextField, JComboBox y JTable
 - Métodos de búsqueda y ordenamiento
 
 **Programación 2** — 3° semestre (2026)
 - Herencia y polimorfismo
 - Clases abstractas e interfaces
 - Jerarquías de herencia multinivel
-- Estructuras de datos: listas enlazadas
+- Sobrescritura de métodos
+- Estructuras de datos: listas enlazadas y nodos
 - Patrones de diseño básicos (MVC)
 - Manejo de colecciones (ArrayList)
 
 **Programación 3** — 4° semestre (2026)
-- Encapsulamiento, herencia, abstracción y polimorfismo
+- Principios de programación orientada a objetos: encapsulamiento, herencia, abstracción y polimorfismo
+- Diseño de jerarquías de clases y reutilización de código mediante herencia
 - Interfaces y clases abstractas
+- Implementación de múltiples interfaces en una misma clase
+- Sobrescritura de métodos y comportamiento polimórfico
 - Interfaces funcionales propias y anotación `@FunctionalInterface`
-- Expresiones lambda
+- Expresiones lambda y paso de comportamientos como parámetros
 - Interfaces funcionales de Java: `Predicate`, `Function`, `Consumer` y `Supplier`
+- Interfaces funcionales genéricas y parametrización de tipos
 - Genéricos y criterios de filtrado reutilizables
 - Iteradores (`Iterator`) y procesamiento de colecciones
 - Transformación de datos y aplicación de reglas de negocio mediante funciones
-
----
-
-## 🚀 Crecimiento del repositorio
-
-Este repositorio está pensado como un historial activo de mi formación. A medida que avance en la carrera, iré agregando los nuevos proyectos por semestre mediante commits organizados.
+- Modelado de sistemas con distintos tipos de materiales bibliográficos
+- Diseño de contratos mediante interfaces especializadas: préstamo, descarga, renovación y reserva
+- Gestión de estados y validación de operaciones: préstamos, devoluciones, reservas y renovaciones
+- Organización de proyectos Java en paquetes y separación de clases e interfaces
 
 ---
 
