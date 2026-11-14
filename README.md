@@ -39,6 +39,7 @@ Cada carpeta de semestre contiene sus propios proyectos organizados individualme
 | [SistemasGestionEmpleados](./programacion-2/SistemasGestionEmpleados/) | Versión extendida del sistema de gestión de empleados desarrollada como examen parcial. Incluye formulario de registro separado y gestor centralizado. | Programación 2 | May–Jun 2026 |
 | [APPListas](./programacion-2/APPListas/) | Aplicación de gestión de estudiantes implementando una **lista simplemente enlazada desde cero** con nodos. Operaciones: agregar al inicio/final, buscar por ID y eliminar. Patrón MVC con GUI en Swing. | Programación 2 | Abr–May 2026 |
 | [SistemaRescate](./programacion-3/sistemarescate/) | Taller — sistema de robots de rescate con interfaces, clases abstractas y polimorfismo. | Programación 3 | Ago.–Sep. 2026 |
+| [SistemaGestionBiblioteca](./programacion-3/SistemaGestionBiblioteca/) | Sistema de gestión de materiales bibliográficos: libros físicos y digitales, revistas, DVD y audiolibros. Aplica herencia, abstracción, interfaces, polimorfismo, préstamos, devoluciones, reservas, descargas y renovaciones. | Programación 3 | Ago.–Sep. 2026 |
 | [TallerLAMBA](./programacion-3/TallerLAMBA/) | Taller de interfaces funcionales y expresiones lambda. Aplica `Predicate`, `Function`, `Consumer` y `Supplier` para filtrar, transformar y procesar productos. | Programación 3 | Sep.–Oct. 2026 |
 | [ParcialPractico](./programacion-3/ParcialPractico/) | Parcial práctico con interfaces funcionales genéricas, expresiones lambda, criterios de filtrado, iteradores y reglas de tarifas aplicadas a cursos. | Programación 3 | Oct.–Nov. 2026 |
 
@@ -59,8 +60,8 @@ Los proyectos de Programación 1 y 2 se desarrollaron principalmente en **NetBea
    git clone https://github.com/jxxanp/java-university-projects.git
    ```
 2. Abre el proyecto con el IDE correspondiente (NetBeans o IntelliJ IDEA).
-3. Navega hasta la carpeta del proyecto que deseas abrir
-4. Haz clic en `Run Project` (F6)
+3. Navega hasta la carpeta del proyecto que deseas abrir.
+4. Haz clic en `Run Project` (F6).
 
 ---
 
@@ -82,9 +83,9 @@ Los proyectos de Programación 1 y 2 se desarrollaron principalmente en **NetBea
 - Patrones de diseño básicos (MVC)
 - Manejo de colecciones (ArrayList)
 
----
-
 **Programación 3** — 4° semestre (2026)
+- Encapsulamiento, herencia, abstracción y polimorfismo
+- Interfaces y clases abstractas
 - Interfaces funcionales propias y anotación `@FunctionalInterface`
 - Expresiones lambda
 - Interfaces funcionales de Java: `Predicate`, `Function`, `Consumer` y `Supplier`
