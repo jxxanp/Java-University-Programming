@@ -1,4 +1,4 @@
-# Java University Programming ☕
+# Java University Programming 
 
 Repositorio personal que reúne los proyectos, talleres y trabajos desarrollados en Java exclusivamente en la asignatura de programación durante mi formación universitaria en **Ingeniería de Sistemas**, Universidad de Córdoba, Colombia.
 
